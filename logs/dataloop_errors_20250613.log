@@ -1,0 +1,150 @@
+2025-06-13 15:48:24 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute 'scan_results'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1240, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1232, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 201, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 279, in _render_manual_scan_tab
+    if self.scan_results:
+AttributeError: 'DataLoopUI' object has no attribute 'scan_results'
+2025-06-13 15:49:01 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute 'scan_results'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1240, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1232, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 201, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 279, in _render_manual_scan_tab
+    if self.scan_results:
+AttributeError: 'DataLoopUI' object has no attribute 'scan_results'
+2025-06-13 15:49:35 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute 'scan_results'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1240, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1232, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 201, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 279, in _render_manual_scan_tab
+    if self.scan_results:
+AttributeError: 'DataLoopUI' object has no attribute 'scan_results'
+2025-06-13 15:52:42 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute '_start_monitoring'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1241, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1233, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 205, in render_main_content
+    self._render_realtime_monitor_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 392, in _render_realtime_monitor_tab
+    self._start_monitoring()
+AttributeError: 'DataLoopUI' object has no attribute '_start_monitoring'
+2025-06-13 15:53:03 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute '_restart_monitoring'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1241, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1233, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 205, in render_main_content
+    self._render_realtime_monitor_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 400, in _render_realtime_monitor_tab
+    self._restart_monitoring()
+AttributeError: 'DataLoopUI' object has no attribute '_restart_monitoring'
+2025-06-13 15:56:24 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute '_start_monitoring'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1240, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1231, in run
+    self.render_sidebar()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 178, in render_sidebar
+    self._start_monitoring()
+AttributeError: 'DataLoopUI' object has no attribute '_start_monitoring'
+2025-06-13 15:56:28 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute '_start_monitoring'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1240, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1231, in run
+    self.render_sidebar()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 178, in render_sidebar
+    self._start_monitoring()
+AttributeError: 'DataLoopUI' object has no attribute '_start_monitoring'
+2025-06-13 15:56:29 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DataLoopUI' object has no attribute '_start_monitoring'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1240, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1231, in run
+    self.render_sidebar()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 178, in render_sidebar
+    self._start_monitoring()
+AttributeError: 'DataLoopUI' object has no attribute '_start_monitoring'
+2025-06-13 16:13:35 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-13 16:36:58 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-13 16:36:59 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-13 16:40:51 - DataLoop-Global - ERROR - error:158 - Error iniciando scheduler: 'Job' object has no attribute 'month'
+2025-06-13 16:40:51 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: module 'streamlit' has no attribute 'experimental_rerun'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1190, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1182, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 192, in render_main_content
+    self._render_scheduler_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 467, in _render_scheduler_tab
+    st.experimental_rerun()
+AttributeError: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-13 16:41:06 - DataLoop-Global - ERROR - error:158 - Error iniciando scheduler: 'Job' object has no attribute 'month'
+2025-06-13 16:41:06 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: module 'streamlit' has no attribute 'experimental_rerun'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1190, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1182, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 192, in render_main_content
+    self._render_scheduler_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 467, in _render_scheduler_tab
+    st.experimental_rerun()
+AttributeError: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-13 20:15:46 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-13 20:27:32 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-13 20:27:34 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-13 20:30:03 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-13 20:32:44 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: 'ScanResults' object is not subscriptable
+2025-06-13 20:32:44 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1196, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1188, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 192, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 261, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1035, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-13 20:37:37 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-13 20:37:59 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: 'ScanResults' object is not subscriptable
+2025-06-13 20:37:59 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1196, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1188, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 192, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 261, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1035, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-13 20:40:19 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-13 20:41:56 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-13 23:56:34 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-14 00:16:59 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-14 00:17:47 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-14 00:20:34 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-14 00:20:55 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Desktop\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@firebase\\auth\\dist\\web-extension-esm2017\\src\\platform_browser\\messagechannel'
+2025-06-14 00:21:35 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Documents\\GitHub\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@eslint-community\\eslint-utils\\node_modules\\eslint-visitor-keys\\dist'

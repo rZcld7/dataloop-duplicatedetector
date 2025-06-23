@@ -1,0 +1,338 @@
+2025-06-18 09:19:46 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 09:19:46 - DataLoop - INFO - info:247 - AutomatedCleanupAction inicializado
+2025-06-18 09:19:46 - DataLoop - INFO - info:247 - CleanupScheduler inicializado con configuración del sistema
+2025-06-18 09:19:46 - DataLoop - INFO - info:247 - Configuración: {'daily_cleanup_time': '02:00', 'weekly_deep_scan_day': 'saturday', 'weekly_deep_scan_time': '03:00', 'auto_remove_duplicates': False, 'keep_strategy': 'oldest', 'monitored_directories': ['C:\\Users\\russe\\Documents', 'C:\\Users\\russe\\Downloads', 'C:\\Users\\russe\\Pictures', 'C:\\Users\\russe\\Videos', 'C:\\Users\\russe\\Music', 'C:\\Users\\russe\\Desktop'], 'max_workers': 16, 'memory_limit_mb': 1953}
+2025-06-18 09:21:51 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 09:21:54 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Downloads
+2025-06-18 09:21:54 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 09:22:06 - DataLoop - INFO - info:247 - Archivos encontrados: 18001, válidos: 271
+2025-06-18 09:22:06 - DataLoop - INFO - info:247 - Procesando 271 archivos después de filtros
+2025-06-18 09:22:07 - DataLoop - INFO - info:247 - Procesados: 100/271 archivos
+2025-06-18 09:22:07 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\Capy.jpg
+2025-06-18 09:22:07 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\Capy - copia.jpg
+2025-06-18 09:22:07 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\GUIA LABORATORIO 1.docx
+2025-06-18 09:22:07 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\GUIA LABORATORIO 1 - copia.docx
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA.docx
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA - copia.docx
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\VTJGc2RHVmtYMThHMXZZNGw5WVUzL3hYSzZVQUQ1NU9NZFljUXYrWWgrTTZLd3hqWWNNM041VExndnRCN2FySVJyMVNGQ1d4R3JPT2tDSzl2dVJrU2lQN3ZKakJJUHA2VUFiamVGOUxSd1l1UDlPaDNvWXNpVDRuRXF1cHFiL28=.pdf
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\contrato (1).pdf
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 16.20 segundos
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 186
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 4
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 💾 Espacio total: 820.1 MB
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 8.4 MB
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 4
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - 💡 Ahorro potencial: 1.0% del espacio total
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:22:10 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\Capy.jpg
+2025-06-18 09:22:10 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\GUIA LABORATORIO 1.docx
+2025-06-18 09:22:10 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA.docx
+2025-06-18 09:22:10 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\VTJGc2RHVmtYMThHMXZZNGw5WVUzL3hYSzZVQUQ1NU9NZFljUXYrWWgrTTZLd3hqWWNNM041VExndnRCN2FySVJyMVNGQ1d4R3JPT2tDSzl2dVJrU2lQN3ZKakJJUHA2VUFiamVGOUxSd1l1UDlPaDNvWXNpVDRuRXF1cHFiL28=.pdf
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Desktop
+2025-06-18 09:22:10 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 09:22:56 - DataLoop - INFO - info:247 - Archivos encontrados: 52714, válidos: 26271
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - Procesando 10000 archivos después de filtros
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np17.gz
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np16.gz
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py35_np19.gz
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py34_np19.gz
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy-1.24.4.dist-info\LICENSE.txt
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy\LICENSE.txt
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 61.86 segundos
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 71
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 3
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 💾 Espacio total: 1.8 MB
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 49.0 KB
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 3
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - 💡 Ahorro potencial: 2.7% del espacio total
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:12 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np17.gz
+2025-06-18 09:23:12 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py35_np19.gz
+2025-06-18 09:23:12 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy-1.24.4.dist-info\LICENSE.txt
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Documents
+2025-06-18 09:23:12 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 09:23:20 - DataLoop - ERROR - error:267 - Error accediendo al directorio C:\Users\russe\Documents: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Documents\\GitHub\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@eslint-community\\eslint-utils\\node_modules\\eslint-visitor-keys\\dist'
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Procesando 0 archivos después de filtros
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 7.57 segundos
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Pictures
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Archivos encontrados: 36, válidos: 34
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Procesando 34 archivos después de filtros
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.43 segundos
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 32
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 💾 Espacio total: 8.9 MB
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Music
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Archivos encontrados: 1, válidos: 1
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Procesando 1 archivos después de filtros
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.01 segundos
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:20 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Videos
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - Archivos encontrados: 3, válidos: 2
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - Procesando 2 archivos después de filtros
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.13 segundos
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 09:23:21 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 09:23:39 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 09:23:41 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 09:23:48 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 10:56:01 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 10:56:01 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Downloads
+2025-06-18 10:56:01 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 10:56:04 - DataLoop - INFO - info:247 - Archivos encontrados: 18001, válidos: 271
+2025-06-18 10:56:05 - DataLoop - INFO - info:247 - Procesando 271 archivos después de filtros
+2025-06-18 10:56:05 - DataLoop - INFO - info:247 - Procesados: 100/271 archivos
+2025-06-18 10:56:05 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\Capy.jpg
+2025-06-18 10:56:05 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\Capy - copia.jpg
+2025-06-18 10:56:05 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\GUIA LABORATORIO 1.docx
+2025-06-18 10:56:05 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\GUIA LABORATORIO 1 - copia.docx
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA.docx
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA - copia.docx
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\VTJGc2RHVmtYMThHMXZZNGw5WVUzL3hYSzZVQUQ1NU9NZFljUXYrWWgrTTZLd3hqWWNNM041VExndnRCN2FySVJyMVNGQ1d4R3JPT2tDSzl2dVJrU2lQN3ZKakJJUHA2VUFiamVGOUxSd1l1UDlPaDNvWXNpVDRuRXF1cHFiL28=.pdf
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\contrato (1).pdf
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 5.64 segundos
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 186
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 4
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 💾 Espacio total: 820.1 MB
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 8.4 MB
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 4
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - 💡 Ahorro potencial: 1.0% del espacio total
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:07 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\Capy.jpg
+2025-06-18 10:56:07 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\GUIA LABORATORIO 1.docx
+2025-06-18 10:56:07 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA.docx
+2025-06-18 10:56:07 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\VTJGc2RHVmtYMThHMXZZNGw5WVUzL3hYSzZVQUQ1NU9NZFljUXYrWWgrTTZLd3hqWWNNM041VExndnRCN2FySVJyMVNGQ1d4R3JPT2tDSzl2dVJrU2lQN3ZKakJJUHA2VUFiamVGOUxSd1l1UDlPaDNvWXNpVDRuRXF1cHFiL28=.pdf
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Desktop
+2025-06-18 10:56:07 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 10:56:22 - DataLoop - INFO - info:247 - Archivos encontrados: 52714, válidos: 26271
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - Procesando 10000 archivos después de filtros
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np17.gz
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np16.gz
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py35_np19.gz
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py34_np19.gz
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy-1.24.4.dist-info\LICENSE.txt
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy\LICENSE.txt
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 22.41 segundos
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 71
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 3
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 💾 Espacio total: 1.8 MB
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 49.0 KB
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 3
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - 💡 Ahorro potencial: 2.7% del espacio total
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:29 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np17.gz
+2025-06-18 10:56:29 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py35_np19.gz
+2025-06-18 10:56:29 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy-1.24.4.dist-info\LICENSE.txt
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Documents
+2025-06-18 10:56:29 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 10:56:33 - DataLoop - ERROR - error:267 - Error accediendo al directorio C:\Users\russe\Documents: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Documents\\GitHub\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@eslint-community\\eslint-utils\\node_modules\\eslint-visitor-keys\\dist'
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Procesando 0 archivos después de filtros
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 3.39 segundos
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Pictures
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Archivos encontrados: 36, válidos: 34
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Procesando 34 archivos después de filtros
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.10 segundos
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 32
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 💾 Espacio total: 8.9 MB
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Music
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Archivos encontrados: 1, válidos: 1
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Procesando 1 archivos después de filtros
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.00 segundos
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Videos
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Archivos encontrados: 3, válidos: 2
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - Procesando 2 archivos después de filtros
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.01 segundos
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 10:56:33 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:20:41 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 11:20:41 - DataLoop - INFO - info:247 - AutomatedCleanupAction inicializado
+2025-06-18 11:20:41 - DataLoop - INFO - info:247 - CleanupScheduler inicializado con configuración del sistema
+2025-06-18 11:20:41 - DataLoop - INFO - info:247 - Configuración: {'daily_cleanup_time': '02:00', 'weekly_deep_scan_day': 'saturday', 'weekly_deep_scan_time': '03:00', 'auto_remove_duplicates': False, 'keep_strategy': 'oldest', 'monitored_directories': ['C:\\Users\\russe\\Documents', 'C:\\Users\\russe\\Downloads', 'C:\\Users\\russe\\Pictures', 'C:\\Users\\russe\\Videos', 'C:\\Users\\russe\\Music', 'C:\\Users\\russe\\Desktop'], 'max_workers': 16, 'memory_limit_mb': 1953}
+2025-06-18 11:24:51 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-18 11:24:51 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Downloads
+2025-06-18 11:24:51 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 11:24:54 - DataLoop - INFO - info:247 - Archivos encontrados: 18001, válidos: 271
+2025-06-18 11:24:54 - DataLoop - INFO - info:247 - Procesando 271 archivos después de filtros
+2025-06-18 11:24:54 - DataLoop - INFO - info:247 - Procesados: 100/271 archivos
+2025-06-18 11:24:54 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\Capy.jpg
+2025-06-18 11:24:54 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\Capy - copia.jpg
+2025-06-18 11:24:54 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\GUIA LABORATORIO 1.docx
+2025-06-18 11:24:54 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\GUIA LABORATORIO 1 - copia.docx
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA.docx
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA - copia.docx
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Downloads\VTJGc2RHVmtYMThHMXZZNGw5WVUzL3hYSzZVQUQ1NU9NZFljUXYrWWgrTTZLd3hqWWNNM041VExndnRCN2FySVJyMVNGQ1d4R3JPT2tDSzl2dVJrU2lQN3ZKakJJUHA2VUFiamVGOUxSd1l1UDlPaDNvWXNpVDRuRXF1cHFiL28=.pdf
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Downloads\contrato (1).pdf
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 4.35 segundos
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 186
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 4
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 💾 Espacio total: 820.1 MB
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 8.4 MB
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 4
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - 💡 Ahorro potencial: 1.0% del espacio total
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:24:56 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\Capy.jpg
+2025-06-18 11:24:56 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\GUIA LABORATORIO 1.docx
+2025-06-18 11:24:56 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\TI3032_U3_ES_GUÍA.docx
+2025-06-18 11:24:56 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Downloads\VTJGc2RHVmtYMThHMXZZNGw5WVUzL3hYSzZVQUQ1NU9NZFljUXYrWWgrTTZLd3hqWWNNM041VExndnRCN2FySVJyMVNGQ1d4R3JPT2tDSzl2dVJrU2lQN3ZKakJJUHA2VUFiamVGOUxSd1l1UDlPaDNvWXNpVDRuRXF1cHFiL28=.pdf
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Desktop
+2025-06-18 11:24:56 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 11:25:06 - DataLoop - INFO - info:247 - Archivos encontrados: 52715, válidos: 26272
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - Procesando 10000 archivos después de filtros
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np17.gz
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np16.gz
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py35_np19.gz
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py34_np19.gz
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 🔴 Duplicado: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy-1.24.4.dist-info\LICENSE.txt
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 -    Original: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy\LICENSE.txt
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 15.45 segundos
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 72
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 3
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 💾 Espacio total: 1.8 MB
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 49.0 KB
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 3
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - 💡 Ahorro potencial: 2.7% del espacio total
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:11 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py27_np17.gz
+2025-06-18 11:25:11 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\joblib\test\data\joblib_0.9.2_compressed_pickle_py35_np19.gz
+2025-06-18 11:25:11 - DataLoop - ERROR - error:267 - File ID not found in captured IDs for path: C:\Users\russe\Desktop\Proyecto Dataloop\EntornoV-dataloop\Lib\site-packages\numpy-1.24.4.dist-info\LICENSE.txt
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Documents
+2025-06-18 11:25:11 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 11:25:14 - DataLoop - ERROR - error:267 - Error accediendo al directorio C:\Users\russe\Documents: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\russe\\Documents\\GitHub\\EcoFood-React-P2-VA.CV.RM\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\ecofood-react-p2-va-cv-rm\\node_modules\\@eslint-community\\eslint-utils\\node_modules\\eslint-visitor-keys\\dist'
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Procesando 0 archivos después de filtros
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 2.73 segundos
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Pictures
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Archivos encontrados: 36, válidos: 34
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Procesando 34 archivos después de filtros
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.09 segundos
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 32
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 💾 Espacio total: 8.9 MB
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Music
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Archivos encontrados: 1, válidos: 1
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Procesando 1 archivos después de filtros
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.01 segundos
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Iniciando escaneo de directorio: C:\Users\russe\Videos
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Parámetros: subdirs=True, min_size=0.0MB, max_files=10000
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Archivos encontrados: 3, válidos: 2
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - Procesando 2 archivos después de filtros
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - RESULTADOS DEL ESCANEO
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ⏱️  Tiempo total: 0.00 segundos
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📁 Archivos procesados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🔴 Duplicados encontrados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 💾 Espacio total: 0 B
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 🗑️  Espacio a liberar: 0 B
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - 📊 Grupos de duplicados: 0
+2025-06-18 11:25:14 - DataLoop - INFO - info:247 - ==================================================

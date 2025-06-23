@@ -1,0 +1,347 @@
+2025-06-11 16:22:55 - DataLoop - INFO - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 16:22:55 - DataLoop - INFO - FileWatcher inicializado
+2025-06-11 16:22:55 - DataLoop - INFO - CleanupScheduler inicializado
+2025-06-11 16:39:19 - DataLoop - INFO - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 16:39:19 - DataLoop - ERROR - Error crítico: name 'DataLoopUI' is not defined
+2025-06-11 16:39:22 - DataLoop - ERROR - Error crítico: name 'DataLoopUI' is not defined
+2025-06-11 16:39:26 - DataLoop - ERROR - Error crítico: name 'DataLoopUI' is not defined
+2025-06-11 16:41:48 - DataLoop - INFO - Base de datos inicializada: c:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 16:48:11 - DataLoop - INFO - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 17:25:39 - DataLoop - INFO - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 17:32:45 - DataLoop - INFO - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 17:33:53 - DataLoop - INFO - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 17:35:23 - DataLoop - INFO - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 17:42:47 - DataLoop - INFO - FileWatcher inicializado
+2025-06-11 17:42:47 - DataLoop - INFO - CleanupScheduler inicializado
+2025-06-11 18:13:20 - DataLoop - ERROR - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-11 19:01:16 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 19:01:16 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 19:01:16 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 19:01:16 - DataLoop-Global - CRITICAL - critical:162 - Error crítico en la aplicación: 'DataLoopUI' object has no attribute '_load_custom_css'
+Traceback (most recent call last):
+  File "c:/Users/russe/Desktop/Proyecto Dataloop/src/ui/dataloop_ui.py", line 64, in main
+    app = DataLoopUI()
+  File "c:/Users/russe/Desktop/Proyecto Dataloop/src/ui/dataloop_ui.py", line 51, in __init__
+    self._load_custom_css()
+AttributeError: 'DataLoopUI' object has no attribute '_load_custom_css'
+2025-06-11 19:01:17 - DataLoop-Global - ERROR - error:158 - Error crítico: 'DataLoopUI' object has no attribute '_load_custom_css'
+2025-06-11 19:01:39 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 19:01:39 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 19:01:39 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 19:01:39 - DataLoop-Global - CRITICAL - critical:162 - Error crítico en la aplicación: 'DataLoopUI' object has no attribute '_load_custom_css'
+Traceback (most recent call last):
+  File "c:/Users/russe/Desktop/Proyecto Dataloop/src/ui/dataloop_ui.py", line 64, in main
+    app = DataLoopUI()
+  File "c:/Users/russe/Desktop/Proyecto Dataloop/src/ui/dataloop_ui.py", line 51, in __init__
+    self._load_custom_css()
+AttributeError: 'DataLoopUI' object has no attribute '_load_custom_css'
+2025-06-11 19:01:40 - DataLoop-Global - ERROR - error:158 - Error crítico: 'DataLoopUI' object has no attribute '_load_custom_css'
+2025-06-11 19:02:23 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 19:02:23 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 19:02:23 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 19:02:23 - DataLoop-Global - CRITICAL - critical:162 - Error crítico en la aplicación: 'DataLoopUI' object has no attribute 'run'
+Traceback (most recent call last):
+  File "c:/Users/russe/Desktop/Proyecto Dataloop/src/ui/dataloop_ui.py", line 118, in main
+    app.run()
+AttributeError: 'DataLoopUI' object has no attribute 'run'
+2025-06-11 19:02:24 - DataLoop-Global - ERROR - error:158 - Error crítico: 'DataLoopUI' object has no attribute 'run'
+2025-06-11 19:04:26 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 19:04:26 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 19:04:26 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 19:04:26 - DataLoop-Global - CRITICAL - critical:162 - Error crítico en la aplicación: 'DataLoopUI' object has no attribute 'render_header'
+Traceback (most recent call last):
+  File "c:/Users/russe/Desktop/Proyecto Dataloop/src/ui/dataloop_ui.py", line 124, in main
+    app.run()
+  File "c:/Users/russe/Desktop/Proyecto Dataloop/src/ui/dataloop_ui.py", line 116, in run
+    self.render_header()
+AttributeError: 'DataLoopUI' object has no attribute 'render_header'
+2025-06-11 19:04:27 - DataLoop-Global - ERROR - error:158 - Error crítico: 'DataLoopUI' object has no attribute 'render_header'
+2025-06-11 19:08:40 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 19:08:41 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 19:08:41 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 19:08:41 - DataLoop-Global - CRITICAL - critical:162 - Error crítico en la aplicación: 'DataLoopUI' object has no attribute 'render_header'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 124, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 116, in run
+    self.render_header()
+AttributeError: 'DataLoopUI' object has no attribute 'render_header'
+2025-06-11 19:08:42 - DataLoop-Global - ERROR - error:158 - Error crítico: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+2025-06-11 19:10:06 - DataLoop-Global - CRITICAL - critical:162 - Error crítico en la aplicación: 'DataLoopUI' object has no attribute 'render_header'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 125, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 117, in run
+    self.render_header()
+AttributeError: 'DataLoopUI' object has no attribute 'render_header'
+2025-06-11 19:10:06 - DataLoop-Global - ERROR - error:158 - Error crítico: 'DataLoopUI' object has no attribute 'render_header'
+2025-06-11 19:13:40 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DatabaseManager' object has no attribute 'get_database_stats'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1192, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1184, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 203, in render_main_content
+    self._render_settings_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 972, in _render_settings_tab
+    db_stats = db_manager.get_database_stats()
+AttributeError: 'DatabaseManager' object has no attribute 'get_database_stats'
+2025-06-11 20:17:34 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'DatabaseManager' object has no attribute 'get_database_stats'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1192, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1184, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 203, in render_main_content
+    self._render_settings_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 972, in _render_settings_tab
+    db_stats = db_manager.get_database_stats()
+AttributeError: 'DatabaseManager' object has no attribute 'get_database_stats'
+2025-06-11 20:20:57 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 20:20:57 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 20:20:57 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 20:22:07 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-11 20:22:42 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:22:46 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:23:44 - DataLoop-Global - ERROR - error:158 - Error iniciando scheduler: 'Job' object has no attribute 'month'
+2025-06-11 20:23:44 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: module 'streamlit' has no attribute 'experimental_rerun'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1192, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1184, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 194, in render_main_content
+    self._render_scheduler_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 469, in _render_scheduler_tab
+    st.experimental_rerun()
+AttributeError: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-11 20:35:09 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 20:35:09 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 20:35:09 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 20:35:29 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-11 20:35:40 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:35:42 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:35:43 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:35:44 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:36:32 - DataLoop-Global - ERROR - error:158 - Error iniciando scheduler: 'Job' object has no attribute 'month'
+2025-06-11 20:36:32 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: module 'streamlit' has no attribute 'st'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1198, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1190, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 194, in render_main_content
+    self._render_scheduler_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 471, in _render_scheduler_tab
+    st.st.rerun()
+AttributeError: module 'streamlit' has no attribute 'st'
+2025-06-11 20:37:14 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:41:23 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-11 20:44:33 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: type object 'Config' has no attribute 'set'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1198, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1190, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 203, in render_main_content
+    self._render_settings_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 801, in _render_settings_tab
+    Config.set(key, value)
+AttributeError: type object 'Config' has no attribute 'set'
+2025-06-11 20:45:57 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:46:00 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:46:04 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'min_size_mb'
+2025-06-11 20:54:00 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 20:54:00 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 20:54:00 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 20:54:30 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: 'ScanResults' object is not subscriptable
+2025-06-11 20:54:30 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 20:55:19 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:55:19 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 20:55:20 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 20:55:22 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 20:55:22 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 21:27:56 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 21:28:03 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 21:28:18 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: 'ScanResults' object is not subscriptable
+2025-06-11 21:28:18 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 21:31:18 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: 'ScanResults' object is not subscriptable
+2025-06-11 21:31:18 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 21:31:27 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 21:31:27 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 21:31:28 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 21:31:29 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 21:31:29 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 21:31:45 - DataLoop-Global - INFO - info:150 - Configuración del scheduler actualizada
+2025-06-11 21:31:52 - DataLoop-Global - ERROR - error:158 - Error iniciando scheduler: 'Job' object has no attribute 'month'
+2025-06-11 21:31:52 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: module 'streamlit' has no attribute 'st'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 194, in render_main_content
+    self._render_scheduler_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 471, in _render_scheduler_tab
+    st.st.rerun()
+AttributeError: module 'streamlit' has no attribute 'st'
+2025-06-11 21:34:04 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 21:34:11 - DataLoop-Global - ERROR - error:158 - Error iniciando scheduler: 'Job' object has no attribute 'month'
+2025-06-11 21:34:11 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: module 'streamlit' has no attribute 'st'
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 194, in render_main_content
+    self._render_scheduler_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 471, in _render_scheduler_tab
+    st.st.rerun()
+AttributeError: module 'streamlit' has no attribute 'st'
+2025-06-11 21:34:27 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 21:34:38 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: 'ScanResults' object is not subscriptable
+2025-06-11 21:34:38 - DataLoop-Global - CRITICAL - critical:162 - Error crítico: 'ScanResults' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1177, in main
+    app.run()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1169, in run
+    self.render_main_content()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 188, in render_main_content
+    self._render_manual_scan_tab()
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 257, in _render_manual_scan_tab
+    self._display_scan_results(st.session_state.scan_results)
+  File "C:\Users\russe\Desktop\Proyecto Dataloop\src\ui\dataloop_ui.py", line 1016, in _display_scan_results
+    st.metric("Archivos Escaneados", f"{results['files_scanned']:,}")
+TypeError: 'ScanResults' object is not subscriptable
+2025-06-11 22:31:17 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'progress_callback'
+2025-06-11 22:31:24 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 22:31:37 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 22:31:39 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 22:34:27 - DataLoop-Global - INFO - info:150 - Marcados como inactivos 0 archivos antiguos
+2025-06-11 22:34:27 - DataLoop-Global - INFO - info:150 - Eliminadas 0 acciones automatizadas antiguas
+2025-06-11 22:34:44 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 22:35:50 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 22:35:50 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 22:35:50 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 22:40:30 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 22:40:30 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 22:40:30 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 22:40:54 - DataLoop-Global - ERROR - error:158 - Error en escaneo manual: scan_directory() got an unexpected keyword argument 'progress_callback'
+2025-06-11 22:45:33 - DataLoop-Global - INFO - info:150 - Base de datos inicializada: C:\Users\russe\Desktop\Proyecto Dataloop\data\dataloop.db
+2025-06-11 22:45:33 - DataLoop-Global - INFO - info:150 - FileWatcher inicializado
+2025-06-11 22:45:33 - DataLoop-Global - INFO - info:150 - CleanupScheduler inicializado
+2025-06-11 22:45:57 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 22:46:14 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear
+2025-06-11 22:47:33 - DataLoop-Global - INFO - info:150 - Marcados como inactivos 0 archivos antiguos
+2025-06-11 22:47:33 - DataLoop-Global - INFO - info:150 - Eliminadas 0 acciones automatizadas antiguas
+2025-06-11 22:47:35 - DataLoop-Global - WARNING - warning:154 - No hay directorios configurados para monitorear

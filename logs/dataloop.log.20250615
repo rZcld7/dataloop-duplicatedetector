@@ -1,0 +1,167 @@
+2025-06-15 00:41:03 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:41:03 - DataLoop - INFO - info:246 - AutomatedCleanupAction inicializado
+2025-06-15 00:41:03 - DataLoop - INFO - info:246 - CleanupScheduler inicializado con configuración del sistema
+2025-06-15 00:41:03 - DataLoop - INFO - info:246 - Configuración: {'daily_cleanup_time': '02:00', 'weekly_deep_scan_day': 'saturday', 'weekly_deep_scan_time': '03:00', 'auto_remove_duplicates': False, 'keep_strategy': 'oldest', 'monitored_directories': ['C:\\Users\\russe\\Documents', 'C:\\Users\\russe\\Downloads', 'C:\\Users\\russe\\Pictures', 'C:\\Users\\russe\\Videos', 'C:\\Users\\russe\\Music', 'C:\\Users\\russe\\Desktop'], 'max_workers': 16, 'memory_limit_mb': 1953}
+2025-06-15 00:41:04 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 00:41:36 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:42:55 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:42:56 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 00:42:57 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:02 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:02 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:03 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 00:43:04 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:05 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:05 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 00:43:25 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:30 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:37 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:43:55 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 00:44:19 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 14:17:19 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 14:17:19 - DataLoop - INFO - info:246 - AutomatedCleanupAction inicializado
+2025-06-15 14:17:19 - DataLoop - INFO - info:246 - CleanupScheduler inicializado con configuración del sistema
+2025-06-15 14:17:19 - DataLoop - INFO - info:246 - Configuración: {'daily_cleanup_time': '02:00', 'weekly_deep_scan_day': 'saturday', 'weekly_deep_scan_time': '03:00', 'auto_remove_duplicates': False, 'keep_strategy': 'oldest', 'monitored_directories': ['C:\\Users\\russe\\Documents', 'C:\\Users\\russe\\Downloads', 'C:\\Users\\russe\\Pictures', 'C:\\Users\\russe\\Videos', 'C:\\Users\\russe\\Music', 'C:\\Users\\russe\\Desktop'], 'max_workers': 16, 'memory_limit_mb': 1953}
+2025-06-15 14:17:19 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 15:27:23 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:27:24 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 15:30:15 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:48:02 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:48:10 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:51:25 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:51:38 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:52:12 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:52:13 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 15:52:13 - DataLoop - ERROR - error:266 - Error crítico en dashboard: 'AdvancedDashboard' object has no attribute 'retrain_model'
+2025-06-15 15:54:09 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:54:21 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:54:36 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:54:37 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:54:56 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:54:56 - DataLoop - ERROR - error:266 - Error crítico en dashboard: 'AdvancedDashboard' object has no attribute 'retrain_model'
+2025-06-15 15:55:04 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:55:05 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:55:06 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 15:55:14 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:55:20 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:55:25 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:55:29 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:55:42 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:55:48 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:56:17 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:56:18 - DataLoop - ERROR - error:266 - Error crítico en dashboard: 'module' object is not callable
+2025-06-15 15:56:30 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:56:30 - DataLoop - ERROR - error:266 - Error crítico en dashboard: 'module' object is not callable
+2025-06-15 15:57:16 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:57:32 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:57:36 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:57:44 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:10 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:16 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:21 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:24 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:38 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:45 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:47 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:58:52 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 15:59:02 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:03:58 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:03:59 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:03:59 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:04:09 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:04:09 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:04:09 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:04:26 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:04:26 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:04:26 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:04:27 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 16:05:05 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:05:05 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:05 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:05 - DataLoop - ERROR - error:266 - Error crítico en dashboard: 'module' object is not callable
+2025-06-15 16:05:12 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:05:12 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:12 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:20 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:05:20 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:20 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:23 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:05:23 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:23 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:24 - DataLoop - INFO - info:246 - FileScanner inicializado
+2025-06-15 16:05:24 - DataLoop - ERROR - error:266 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:24 - DataLoop - ERROR - error:266 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:05:25 - DataLoop - ERROR - error:266 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 16:39:04 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 16:39:04 - DataLoop - INFO - info:247 - AutomatedCleanupAction inicializado
+2025-06-15 16:39:05 - DataLoop - INFO - info:247 - CleanupScheduler inicializado con configuración del sistema
+2025-06-15 16:39:05 - DataLoop - INFO - info:247 - Configuración: {'daily_cleanup_time': '02:00', 'weekly_deep_scan_day': 'saturday', 'weekly_deep_scan_time': '03:00', 'auto_remove_duplicates': False, 'keep_strategy': 'oldest', 'monitored_directories': ['C:\\Users\\russe\\Documents', 'C:\\Users\\russe\\Downloads', 'C:\\Users\\russe\\Pictures', 'C:\\Users\\russe\\Videos', 'C:\\Users\\russe\\Music', 'C:\\Users\\russe\\Desktop', 'C:\\Users\\Public\\Documents', 'C:\\Users\\Public\\Downloads'], 'max_concurrent_scans': 16}
+2025-06-15 16:39:05 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:39:05 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:39:05 - DataLoop - ERROR - error:267 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 16:46:37 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 16:46:37 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:46:37 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:53:08 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 16:53:08 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 16:53:08 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 17:00:31 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 17:00:31 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 17:00:31 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 17:12:48 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 17:12:48 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 17:12:48 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 17:12:49 - DataLoop - ERROR - error:267 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 18:00:02 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 18:00:02 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 18:00:02 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 18:00:02 - DataLoop - ERROR - error:267 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 19:25:00 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 19:25:00 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:25:00 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:25:01 - DataLoop - ERROR - error:267 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 19:25:03 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 19:25:03 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:25:03 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:25:03 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 19:25:03 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:25:03 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:25:09 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 19:25:09 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:25:09 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:59:25 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 19:59:25 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:59:25 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:59:25 - DataLoop - ERROR - error:267 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 19:59:27 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 19:59:27 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:59:27 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:59:39 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 19:59:39 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 19:59:39 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:09:50 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 23:09:50 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:09:50 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:09:51 - DataLoop - ERROR - error:267 - Error cargando distribución de archivos: 'DatabaseManager' object has no attribute 'execute_query'
+2025-06-15 23:10:07 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 23:10:07 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:10:07 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:56:44 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 23:56:44 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:56:44 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:58:22 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 23:58:22 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:58:22 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:58:22 - DataLoop - ERROR - error:267 - Error crítico en dashboard: There are multiple `multiselect` elements with the same auto-generated ID. When this element is created, it is assigned an internal ID based on the element type and provided parameters. Multiple elements with the same type and parameters will cause this error.
+
+To fix this error, please pass a unique `key` argument to the `multiselect` element.
+2025-06-15 23:59:28 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 23:59:28 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:59:28 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:59:29 - DataLoop - ERROR - error:267 - Error crítico en dashboard: 'RealTimeDataLoader' object has no attribute 'load_system_statistics'
+2025-06-15 23:59:54 - DataLoop - INFO - info:247 - FileScanner inicializado
+2025-06-15 23:59:54 - DataLoop - ERROR - error:267 - Error configurando schedule: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:59:54 - DataLoop - ERROR - error:267 - Error iniciando scheduler: 'CleanupScheduler' object has no attribute 'weekly_deep_scan_task'
+2025-06-15 23:59:55 - DataLoop - ERROR - error:267 - Error crítico en dashboard: There are multiple `multiselect` elements with the same auto-generated ID. When this element is created, it is assigned an internal ID based on the element type and provided parameters. Multiple elements with the same type and parameters will cause this error.
+
+To fix this error, please pass a unique `key` argument to the `multiselect` element.
