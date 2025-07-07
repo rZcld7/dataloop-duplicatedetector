@@ -38,6 +38,50 @@ import plotly.graph_objects as go
 import numpy as np
 from plotly.subplots import make_subplots
 
+#IMPORTACIONES NUEVAS
+
+from src.config.access_control import (
+    initialize_session_state,
+    login_user,
+    logout_user,
+    get_current_user_data,
+    has_permission,
+    UserRole,
+    Permission
+)
+from src.config.settings import settings
+import streamlit as st
+
+#INICIAZICION DE SESION 
+initialize_session_state()
+
+#CREACION DE INTERFAZ DE LOGIN
+def login_screen():
+    st.title("🔐 Inicio de sesión - Dataloop Duplicate Detector")
+
+    st.write("Por favor, inicia sesión para continuar.")
+
+    username = st.text_input("Nombre de usuario")
+    role = st.selectbox("Rol", ["admin", "regular_user"])
+    login_button = st.button("Iniciar sesión")
+
+    if login_button:
+        if username.strip() == "":
+            st.error("El nombre de usuario no puede estar vacío.")
+        else:
+            selected_role = UserRole.ADMIN if role == "admin" else UserRole.REGULAR_USER
+            login_user(username, selected_role)
+            st.rerun()
+
+#BOTON DE LOGOUT
+def top_bar():
+    st.sidebar.write(f"👤 Usuario: {st.session_state.user_data['username']}")
+    st.sidebar.write(f"🔓 Rol: {st.session_state.user_data['role']}")
+    if st.sidebar.button("Cerrar sesión"):
+        logout_user()
+        st.rerun()
+
+
 # Configuración de la página (debe ser lo primero)
 st.set_page_config(
     page_title="DataLoop Pro - Dashboard IA",
@@ -1415,6 +1459,14 @@ class AdvancedDashboard:
 
 # Punto de entrada principal
 def main():
+    if not st.session_state.logged_in:
+        login_screen()
+    else:
+        top_bar()
+        # Aquí va la interfaz principal de tu app (subida de archivos, escaneo, visualización, etc.)
+        st.title("📁 Detector de Archivos Duplicados")
+        st.write("¡Bienvenido! Puedes comenzar a escanear tus carpetas.")
+        # Puedes condicionar vistas según permisos con has_permission(...)
     """Función principal"""
     try:
         dashboard = AdvancedDashboard()
