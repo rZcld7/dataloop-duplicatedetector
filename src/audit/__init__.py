@@ -1,0 +1,1 @@
+# Módulo de auditoría para registro estructurado y seguro de acciones 
