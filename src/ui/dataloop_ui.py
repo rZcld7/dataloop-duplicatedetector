@@ -55,6 +55,7 @@ try:
     from src.utils.database import db_manager
     from logs.logger import logger
     from src.utils.config import Config
+    from src.audit import tracker # <--- Integración de auditoría
 except ImportError as e:
     st.error(f"Error importando módulos: {e}")
     st.stop()
